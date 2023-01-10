@@ -3,7 +3,7 @@
 ## QuranApp
 >- Une application de quran 
 >- Ce projet est à but non lucratif.
->-  La date prevue de mise en ligne pour le grand public : <code style="padding: 2px ; background: black; border-radius: 5px; pading: 5; color: white">**15/03/2022**</code><br/>
+>-  La date prevue de mise en ligne pour le grand public : <code>**15/03/2022**</code>
 >
 >- Les étapes de développement:<br/>
 > **_iOS_**: <code>privé</code><br />
