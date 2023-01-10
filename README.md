@@ -8,7 +8,7 @@
 >- Les étapes de développement:<br/>
 > **_iOS_**: <code>privé</code><br />
 > **_android_**: <code>privé</code><br />
-> **_web_**: <code>No available</code>
+> **_web_**: <code>No available</code><br />
 > **support and confidentiality website**<code> debute dès que possible</code><br />
 
 
